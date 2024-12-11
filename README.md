@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **js,nodejs, React & UI Designing**
 
-- 👨‍💻 All of my projects are available at [HERE](https://jkdev269.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [HERE](https://jk-portfolio-lilac.vercel.app/)
 
-- 📄 Know about my experiences [HERE - My Portfolio Website](https://jkdev269.github.io/Portfolio/)
+- 📄 Know about my experiences [HERE - My Portfolio Website](https://jk-portfolio-lilac.vercel.app/)
 
 - 📫 Reach out to me at **jaharuddin269@gmail.com** 
 
@@ -55,7 +55,7 @@
 ### Connect with me:
 
 <p align="center">
-<a href="https://jkdev269.github.io/Portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-Jaharuddin.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://jk-portfolio-lilac.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-Jaharuddin.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jaharuddin-khan-990444319/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jaharuddin-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:jaharuddin269@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jaharuddin269@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
